@@ -183,6 +183,7 @@ This project is configured for **Azure Web App (Linux/Node.js)** using Zip Deplo
     Ensure required App Settings are set in Azure Portal:
     - `SCM_DO_BUILD_DURING_DEPLOYMENT = true`
     - `PORT = 8080` (or let Azure default handle it)
+    - `VITE_EXCHANGE_API_KEY = <API Key>` (Add the rest of the required API keys in the App settings)
 
 ---
 

@@ -2,8 +2,8 @@
 
 A comprehensive web-based application designed to provide travelers with real-time, consolidated information about any destination worldwide. By integrating data from multiple heterogeneous sources (weather, safety, currency, etc.), the system offers a unified interface for travel planning and safety assessment.
 
-![Dashboard (Dark Mode) Preview](Dashboard (Dark).png)
-![Dashboard (Light Mode) Preview](Dashboard (Light).png)
+![Dashboard Dark Mode Preview](Dashboard%20%28Dark%29.png)
+![Dashboard Light Mode Preview](Dashboard%20%28Light%29.png)
 
 ## 📋 Table of Contents
 

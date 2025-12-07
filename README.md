@@ -197,7 +197,7 @@ This project is configured for **Azure Web App (Linux/Node.js)** using Zip Deplo
 
 ## 📄 License
 
-This project is for educational purposes as part of the [Module Name] module.
+This project is for educational purposes as part of the Service Oriented Computing (IT41073) module.
 
 ---
 
